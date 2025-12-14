@@ -205,3 +205,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+
+# Data & outputs pesados
+data/processed/
+models/
+outputs/
+
+# OS
+.DS_Store
